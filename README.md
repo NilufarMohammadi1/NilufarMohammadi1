@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilufarMohammadi1&size_weight=0.2&count_weight=0.2&langs_count=8&layout=donut-vertical&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NilufarMohammadi1&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radicacl" />
+  <img height=200 align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilufarMohammadi1)](https://github.com/anuraghazra/github-readme-stats)" />
 </a>
 
 
